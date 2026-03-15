@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DreamSMPisOP.aternos.me:31334",
-    "port": 31334,
+    "ip": "RaidSMP-OfIS.aternos.me:15638",
+    "port": 15638,
     "version": "",
     "try-creative": false
   },
